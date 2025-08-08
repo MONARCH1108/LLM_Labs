@@ -2,6 +2,9 @@
 
 A comprehensive Python tool for comparing Large Language Models (LLMs) across multiple providers using various prompting strategies. Supports both CLI and web interfaces for interactive evaluation and performance analysis.
 
+## Documentaion:
+https://medium.com/@abhayemani8/llm-labs-149b8174bd33
+
 ## 🌟 Features
 
 ### Multi-Provider Support
