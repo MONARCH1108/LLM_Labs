@@ -1,0 +1,11 @@
+flask
+spacy
+groq
+ollama
+requests
+google-generativeai
+transformers
+textstat
+torch
+py-readability-metrics
+python-dotenv
